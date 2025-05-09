@@ -29,7 +29,7 @@ Designed to create a real-time user login experience — visually similar to Win
 5. Run the Python script:
 
 ```bash
-python your_script_name.py
+python main.py
 ```
 
 ---
